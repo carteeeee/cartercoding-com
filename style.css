@@ -28,3 +28,7 @@ button {
   left: 0;
   top: 0;
 }
+
+img {
+  image-rendering: pixelated;
+}
